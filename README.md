@@ -26,7 +26,7 @@ J’adore imaginer des interfaces web, penser à l’expérience utilisateur, pu
 
 -Communication : présentation de projets, travail en équipe, storytelling
 
-[Voir tous mes projets ici](https://gitlab.com/KokoCoquelicots)
+[Voir tous mes projets ici](https://github.com/KokoCoquelicots?tab=repositories)
 
 ##  Me contacter
 
