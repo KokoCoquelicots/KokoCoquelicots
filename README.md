@@ -1,7 +1,6 @@
 # Bonjour, moi c’est Marine
 
 ## 🎓 Étudiante en BUT MMI, parcours développement web et dispositifs interactifs
----
 
 J’aime explorer les liens entre la science et l’art, en combinant logique, code et créativité.
 En parallèle de mes études en développement web, je dessine régulièrement.
