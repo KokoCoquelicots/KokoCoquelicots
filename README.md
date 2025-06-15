@@ -7,7 +7,6 @@ J’aime explorer les liens entre la science et l’art, en combinant logique, c
 En parallèle de mes études en développement web, je dessine régulièrement.
 J’adore imaginer des interfaces web, penser à l’expérience utilisateur, puis les coder et leur donner vie à l’écran.
 
----
 ### Langages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -18,7 +17,6 @@ J’adore imaginer des interfaces web, penser à l’expérience utilisateur, pu
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white)
 
----
 ### Mes compétences :
 
 -Développement web : HTML, CSS, JavaScript, PHP, SQL
@@ -33,11 +31,7 @@ J’adore imaginer des interfaces web, penser à l’expérience utilisateur, pu
 
 -Communication : présentation de projets, travail en équipe, storytelling
 
----
-
 [Voir tous mes projets ici](https://gitlab.com/KokoCoquelicots)
-
----
 
 ##  Me contacter
 
