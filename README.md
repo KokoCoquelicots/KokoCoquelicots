@@ -12,7 +12,7 @@ J’adore imaginer des interfaces web, penser à l’expérience utilisateur, pu
 ### Création artistique 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white) ![Procreate](https://img.shields.io/badge/Procreate-000000?logo=procreate&logoColor=white) ![InDesign](https://img.shields.io/badge/InDesign-E44C61?logo=adobe-indesign&logoColor=white)
 
-[Lien vers mon portfolio artistique](https://github.com/KokoCoquelicots?tab=repositories)
+[Lien vers mon portfolio artistique](https://www.behance.net/marinegruber)
 
 ### Mes compétences :
 
