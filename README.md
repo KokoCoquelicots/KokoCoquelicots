@@ -13,7 +13,7 @@ J’adore imaginer des interfaces web, penser à l’expérience utilisateur, pu
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
 ### Création artistique 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white) ![Procreate](https://img.shields.io/badge/Procreate-000000?logo=procreate&logoColor=white) ![InDesign](https://img.shields.io/badge/InDesign-E44C61?logo=adobe-indesign&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white) ![Procreate](https://img.shields.io/badge/Procreate-000000?logo=procreate&logoColor=white) ![InDesign](https://img.shields.io/badge/InDesign-E44C61?logo=adobe-indesign&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?logo=davinci-resolve&logoColor=white)
 
 [Lien vers mon portfolio artistique](https://www.behance.net/marinegruber)
 
