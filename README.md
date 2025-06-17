@@ -17,19 +17,11 @@ J’adore imaginer des interfaces web, penser à l’expérience utilisateur, pu
 
 [Lien vers mon portfolio artistique](https://www.behance.net/marinegruber)
 
-### Mes compétences :
-
--Développement web : HTML, CSS, JavaScript, PHP, SQL
-
--UI/UX Design : Figma, maquettes, prototypage, accessibilité
-
--Intégration : responsive design, animation, respect des maquettes
-
--Création visuelle : Photoshop, Illustrator, montage photo/vidéo
+### Autres compétences :
 
 -Gestion de projet : méthode agile, Trello, Git, GitLab
 
--Communication : présentation de projets, travail en équipe, storytelling
+-Communication : Audit de l'existant, présentation de projets, travail en équipe, storytelling
 
 [Voir tous mes projets ici](https://github.com/KokoCoquelicots?tab=repositories)
 
