@@ -23,6 +23,8 @@ J’adore imaginer des interfaces web, penser à l’expérience utilisateur, pu
 
 -Communication/Marketing : Audit de l'existant, présentation de projets, travail en équipe, storytelling, SWOT...
 
+-UX/UI : brainstorming, réalisation d'arborescence, wireframes, approche centrée utilisateurs, tests utilisateurs...
+
 [Voir tous mes projets ici](https://github.com/KokoCoquelicots?tab=repositories)
 
 ##  Me contacter
