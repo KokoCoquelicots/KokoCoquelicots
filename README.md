@@ -19,9 +19,9 @@ J’adore imaginer des interfaces web, penser à l’expérience utilisateur, pu
 
 ### Autres compétences :
 
--Gestion de projet : méthode agile, Trello, Git, GitLab
+-Gestion de projet : méthode agile, Trello, Git, GitLab...
 
--Communication : Audit de l'existant, présentation de projets, travail en équipe, storytelling
+-Communication/Marketing : Audit de l'existant, présentation de projets, travail en équipe, storytelling, SWOT...
 
 [Voir tous mes projets ici](https://github.com/KokoCoquelicots?tab=repositories)
 
