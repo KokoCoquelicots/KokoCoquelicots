@@ -17,6 +17,10 @@ J’adore imaginer des interfaces web, penser à l’expérience utilisateur, pu
 
 [Lien vers mon portfolio artistique](https://www.behance.net/marinegruber)
 
+### Langues
+![Anglais C1/B2](https://img.shields.io/badge/English-0052CC?logo=language&logoColor=white)
+![Allemand A2+](https://img.shields.io/badge/Deutsch-FFCC00?logo=language&logoColor=black)
+
 ### Autres compétences :
 
 -Gestion de projet : méthode agile, Trello, Git, GitLab
