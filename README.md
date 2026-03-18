@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Bonjour!&animation=fadeIn)
 # moi c’est Marine
+![Stats](https://github-readme-stats.vercel.app/api?username=KokoCoquelicots&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=KokoCoquelicots&theme=dark)
 ## 🎓 Étudiante en BUT MMI, parcours développement web et dispositifs interactifs
 
 J’aime explorer les liens entre la science et l’art, en combinant logique, code et créativité.
