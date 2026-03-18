@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Marine%20✦%20KokoCoquelicots&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Étudiante%20MMI%20·%20Dev%20Web%20·%20Créative&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Bonjour+%F0%9F%8C%B8+moi+c%27est+Marine+!;Étudiante+BUT+MMI+parcours+Dev+Web;Là+où+le+code+rencontre+la+créativité+✨;Fan+de+design%2C+d%27UX+et+de+jeux+vidéo+🎮)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Bonjour+%F0%9F%8C%B8+moi+c%27est+Marine+!;Étudiante+BUT+MMI+parcours+Dev+Web;Là+où+le+code+rencontre+la+créativité+✨;Fan+de+design%2C+d%27UX+et+de+jeux+vidéo+🎮;Je+dessine+aussi+sur+Procreate+🎨)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,13 +27,12 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 ---
 
-## Statistiques GitHub
+## 📊 Statistiques GitHub
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KokoCoquelicots&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokoCoquelicots&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokoCoquelicots&theme=radical)
 
 </div>
 
@@ -45,9 +44,43 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 ---
 
-## Stack technique
+## 🗺️ Vue détaillée de mes contributions
 
-### Développement Web
+<div align="center">
+
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokoCoquelicots&theme=radical)
+
+</div>
+
+<div align="center">
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KokoCoquelicots&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KokoCoquelicots&theme=radical)
+
+</div>
+
+<div align="center">
+
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KokoCoquelicots&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KokoCoquelicots&theme=radical&utcOffset=2)
+
+</div>
+
+---
+
+## 🌐 Activité récente
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KokoCoquelicots&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🛠️ Stack technique
+
+### 🌐 Développement Web
 
 <div align="center">
 
@@ -74,7 +107,7 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 </div>
 
-### Bases de données
+### 🗄️ Bases de données
 
 <div align="center">
 
@@ -85,7 +118,7 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 </div>
 
-### Jeux vidéo
+### 🎮 Jeux vidéo
 
 <div align="center">
 
@@ -94,7 +127,7 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 </div>
 
-### Création artistique
+### 🎨 Création artistique
 
 <div align="center">
 
@@ -111,11 +144,11 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 ---
 
-## Autres compétences
+## 💡 Autres compétences
 
 <div align="center">
 
-| Gestion de projet | Communication & Marketing | UX / UI |
+| 🗂️ Gestion de projet | 📣 Communication & Marketing | 🖱️ UX / UI |
 |:---:|:---:|:---:|
 | Méthode Agile | Audit de l'existant | Brainstorming |
 | Trello, Git, GitLab | Présentation de projets | Arborescences & Wireframes |
@@ -125,7 +158,27 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 ---
 
-## Mes contributions
+## 💬 Citation du jour
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 😄 Dev joke du jour
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+
+</div>
+
+---
+
+## 🐍 Mes contributions
 
 <div align="center">
 
@@ -135,20 +188,11 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 ---
 
-## Activité récente
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KokoCoquelicots&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🔗 Me retrouver ailleurs
 
-</div>
-
----
-
-<div align="center">
-
-### Me retrouver ailleurs
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-FF6B9D?style=for-the-badge)](https://portfolio-gruber-marine.vercel.app/)
 [![Behance](https://img.shields.io/badge/Portfolio_Artistique-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marinegruber)
 [![GitHub](https://img.shields.io/badge/Mes_Projets-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KokoCoquelicots?tab=repositories)
 
