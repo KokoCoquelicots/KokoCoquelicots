@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Marine%20✦%20KokoCoquelicots&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Étudiante%20MMI%20·%20Dev%20Web%20·%20Créative&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Bonjour+%F0%9F%8C%B8+moi+c%27est+Marine+!;Étudiante+BUT+MMI+parcours+Dev+Web;Là+où+le+code+rencontre+la+créativité+✨;Fan+de+design%2C+d%27UX+et+de+jeux+vidéo;Je+dessine+aussi+sur+Procreate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Bonjour+%F0%9F%8C%B8+moi+c%27est+Marine+!;Étudiante+BUT+MMI+parcours+Dev+Web;Là+où+le+code+rencontre+la+créativité;Fan+de+design%2C+d%27UX+et+de+jeux+vidéo;Je+dessine+aussi+sur+Procreate)](https://git.io/typing-svg)
 
 </div>
 
@@ -76,29 +76,29 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 </div>
 
+![capsule](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
 ---
 
 ## Stack technique
 
 <div align="center">
 
-![capsule](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+**Développement Web**
 
-### Développement Web
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,symfony,laravel,drupal,bootstrap,tailwind,react,threejs,nodejs&titles=true&theme=dark&perline=6)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,symfony,laravel,drupal,bootstrap,tailwind,react,nodejs,threejs,vite&theme=dark&perline=7)](https://skillicons.dev)
+**Dev Mobile · Outils**
 
-### Dev Mobile & Outils
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=kotlin,flutter,cs,unity,git,vscode,figma&titles=true&theme=dark&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,git,vscode,phpstorm,figma&theme=dark&perline=7)](https://skillicons.dev)
+**Bases de données**
 
-### Bases de données
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,php&titles=true&theme=dark&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,oracle&theme=dark&perline=7)](https://skillicons.dev)
+**Création & 3D**
 
-### Création & 3D
-
-[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere,blender,unity&theme=dark&perline=7)](https://skillicons.dev)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,ae,blender,pr&titles=true&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -144,6 +144,23 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 </div>
 </details>
+
+![capsule](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+---
+
+## En ce moment j'apprends
+
+<div align="center">
+
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=react,threejs,flutter,kotlin&titles=true&theme=dark&perline=4)](https://skillicons.dev)
+
+![React](https://img.shields.io/badge/React-En_cours-FF6B9D?style=flat-square&logo=react&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-En_cours-FF6B9D?style=flat-square&logo=three.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-En_cours-FF6B9D?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-En_cours-FF6B9D?style=flat-square&logo=kotlin&logoColor=white)
+
+</div>
 
 ---
 
