@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Marine%20✦%20KokoCoquelicots&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Étudiante%20MMI%20·%20Dev%20Web%20·%20Artiste&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Marine%20✦%20KokoCoquelicots&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Étudiante%20MMI%20·%20Dev%20Web%20·%20Créative&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Bonjour+%F0%9F%8C%B8+moi+c%27est+Marine+!;Étudiante+BUT+MMI+parcours+Dev+Web;Là+où+le+code+rencontre+la+créativité+✨;Fan+de+design%2C+d%27UX+et+de+jeux+vidéo+🎮)](https://git.io/typing-svg)
 
@@ -13,10 +13,10 @@
 ```
 Étudiante en BUT MMI — Développement Web & Dispositifs Interactifs
 Passionnée par les liens entre la science et l'art
-J'imagine des interfaces, je pense l'UX, puis je les code et leur donne vie
-Je dessine régulièrement en parallèle de mes études
-J'explore aussi le monde du jeu vidéo avec Unity
-Portfolio : behance.net/marinegruber
+J'imagine des interfaces, je pense à l'UX/UI, puis je les code et leur donne vie !
+Je dessine régulièrement en parallèle de mes études sur mon Ipad via Procreate.
+J'explore aussi le monde du jeu vidéo avec Unity :)
+Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 ```
 
 <div align="center">
@@ -27,7 +27,7 @@ Portfolio : behance.net/marinegruber
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -42,17 +42,11 @@ Portfolio : behance.net/marinegruber
 
 </div>
 
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/KokoCoquelicots?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=1&achievements.display=detailed&achievements.limit=6&config.timezone=Europe/Paris)
-
-</div>
-
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
-### 🌐 Développement Web
+### Développement Web
 
 <div align="center">
 
@@ -62,16 +56,24 @@ Portfolio : behance.net/marinegruber
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Twig](https://img.shields.io/badge/Twig-009688?style=for-the-badge&logo=twig&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Motion](https://img.shields.io/badge/Motion_for_React-FF0055?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 </div>
 
-### 🗄️ Bases de données
+### Bases de données
 
 <div align="center">
 
@@ -82,7 +84,7 @@ Portfolio : behance.net/marinegruber
 
 </div>
 
-### 🎮 Jeux vidéo
+### Jeux vidéo
 
 <div align="center">
 
@@ -91,7 +93,7 @@ Portfolio : behance.net/marinegruber
 
 </div>
 
-### 🎨 Création artistique
+### Création artistique
 
 <div align="center">
 
@@ -108,11 +110,11 @@ Portfolio : behance.net/marinegruber
 
 ---
 
-## 💡 Autres compétences
+## Autres compétences
 
 <div align="center">
 
-| 🗂️ Gestion de projet | 📣 Communication & Marketing | 🖱️ UX / UI |
+| Gestion de projet | Communication & Marketing | UX / UI |
 |:---:|:---:|:---:|
 | Méthode Agile | Audit de l'existant | Brainstorming |
 | Trello, Git, GitLab | Présentation de projets | Arborescences & Wireframes |
@@ -122,7 +124,7 @@ Portfolio : behance.net/marinegruber
 
 ---
 
-## 🐍 Mes contributions
+## Mes contributions
 
 <div align="center">
 
@@ -132,7 +134,7 @@ Portfolio : behance.net/marinegruber
 
 ---
 
-## 📈 Activité récente
+## Activité récente
 
 <div align="center">
 
@@ -144,11 +146,15 @@ Portfolio : behance.net/marinegruber
 
 <div align="center">
 
-### 🔗 Me retrouver ailleurs
+### Me retrouver ailleurs
 
 [![Behance](https://img.shields.io/badge/Portfolio_Artistique-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marinegruber)
 [![GitHub](https://img.shields.io/badge/Mes_Projets-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KokoCoquelicots?tab=repositories)
 
 </div>
 
+<div align="center">
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
