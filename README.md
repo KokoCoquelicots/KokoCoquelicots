@@ -1,5 +1,5 @@
 # Bonjour, moi c’est Marine
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Bonjour!&animation=fadeIn)
 ## 🎓 Étudiante en BUT MMI, parcours développement web et dispositifs interactifs
 
 J’aime explorer les liens entre la science et l’art, en combinant logique, code et créativité.
