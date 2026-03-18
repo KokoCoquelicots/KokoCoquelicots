@@ -44,7 +44,7 @@ Portfolio : behance.net/marinegruber
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KokoCoquelicots&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Metrics](https://metrics.lecoq.io/KokoCoquelicots?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=1&achievements.display=detailed&achievements.limit=6&config.timezone=Europe/Paris)
 
 </div>
 
