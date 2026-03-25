@@ -193,7 +193,6 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 ### Me retrouver ailleurs
 
 [![Portfolio](https://img.shields.io/badge/Portfolio_Web-FF6B9D?style=for-the-badge)](https://portfolio-gruber-marine.vercel.app/)
-[![Behance](https://img.shields.io/badge/Portfolio_Artistique-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marinegruber)
 [![GitHub](https://img.shields.io/badge/Mes_Projets-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KokoCoquelicots?tab=repositories)
 
 </div>
