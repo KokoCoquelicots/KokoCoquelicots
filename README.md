@@ -27,23 +27,6 @@ Portfolio site web : https://portfolio-gruber-marine.vercel.app/
 
 ---
 
-## Statistiques GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KokoCoquelicots&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokoCoquelicots&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=KokoCoquelicots&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr)
-
-</div>
-
----
-
 ## Vue détaillée de mes contributions
 
 <div align="center">
